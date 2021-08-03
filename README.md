@@ -1,5 +1,5 @@
 # Pandas
-pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool. 
+pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool. This Repo also contains a small Pandas Worksheet.
 
 Pandas makes it simple to do many of the time consuming, repetitive tasks associated with working with data, including:
 
